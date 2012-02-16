@@ -1,5 +1,5 @@
 
-### Simple Django Server
+### Simple Sintra Server
 
-To make system calls
+Going to make system calls, but following KISS principle
 
